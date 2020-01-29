@@ -1,7 +1,8 @@
 {
   "name": "devdacticTracking",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular",
   "id": "ce178f89"
